@@ -3,7 +3,7 @@ name = "cio-datacore-init"
 version = "0.1.0"
 authors = ["Marnix Bloeiman <programmer.marxin0810@gmail.com>"]
 edition = "2018"
-
+license = "./License.md"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
